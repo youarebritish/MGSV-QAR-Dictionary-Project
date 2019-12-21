@@ -2,8 +2,8 @@
 #include <fstream>
 #include "include\MinHook.h"
 
-const size_t CityHash1Addr = 0x1418413F0; //MGS beta addr: 14183F3C0
-const size_t CityHash2Addr = 0x141841930; //MGS beta addr: 14183F900
+const size_t CityHash1Addr = 0x14CD9C020;
+const size_t CityHash2Addr = 0x14CD9C750;
 
 const size_t BaseAddr = 0x140000000; // from ImageBase field in the EXE
 
